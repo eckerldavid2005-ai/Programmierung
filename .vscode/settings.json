@@ -1,0 +1,14 @@
+{
+    "python.testing.pytestArgs": [
+        "Python"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    }
+}
